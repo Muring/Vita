@@ -3,7 +3,7 @@ import useUserStore from "@/store/user-store";
 import { reissue } from "@/api/login";
 
 // 환경 변수에서 API URL과 토큰을 읽어옵니다.
-const API_URL = "https://k10a103.p.ssafy.io/api/v1";
+const API_URL = "YOUR URL";  // 도메인 주소 입력
 
 // axios 인스턴스 생성
 const localAxios = axios.create({
