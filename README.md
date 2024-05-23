@@ -216,6 +216,7 @@
   - 캐릭터 전제 정보 조회
 - Aixos 전역화
 - 이미지 및 아이콘 동적 전역화
+- Progressive Web Application(PWA) 적용
 
 #### 박철준
 
